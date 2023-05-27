@@ -1,4 +1,5 @@
-Vi Game built the app <b>Birdy Climb: Flying Bird Game</b> as (open source/free/freemium/ad-supported/commercial) app. This SERVICE is provided by Vi Game at no cost and is intended for use as is.
+Vi Game built the app <b>
+Birdy Climb: Impossible Climb</b> as (open source/free/freemium/ad-supported/commercial) app. This SERVICE is provided by Vi Game at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
